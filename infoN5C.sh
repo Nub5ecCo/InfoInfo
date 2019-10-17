@@ -1,38 +1,48 @@
 #!/system/xbin/bash
-#Goblok Recode Bayar
-#Nub 5ec Comunity
+#INDONESIA CYBER
+#This DICK Mwehehe 
+#            ____   _____
+#          / [ • ]  | |  [ • ] \
+#         |  \     ___      /  |
+#         |    \_______/    |
+#         |                        |
+#        /                        \
+#       \_______/\_____/
 clear
 echo "\033[31;1m [★]================================================[★]"
-echo "\033[32;1m [-] Kang ReCode    : Dr.Zi20             [-]"
-echo "\033[36;1m [★]Team     : Nub 5ec Comunity                       [★]"
+echo "\033[32;1m [-] Kang ReCode    : Dr.Zi20                       [-]"
+echo "\033[36;1m [★]Team     : Nub 5ec Cyber                      [★]"
 echo "\033[32;1m [-]Version  : 0.0                                  [-]"
 echo "\033[31;1m [★]================================================[★]"
-sleep 5
+sleep 2
 echo "\033[36;1m WAIT.."
-sleep 3
+sleep 1
 echo "\033[36;1m WAIT...."
-sleep 4
+sleep 1
 echo "MENGAMBIL IP......"
+sleep 2
 echo "\033[32;1m Done......."
+sleep 1
 echo "\033[36;1m
-1. info Nub 5ec Comunity
-2. tanggal dibuatnya Nub 5ec Comunity
-3. anggota Nub 5ec Comunity
-4. Zi20 Project
-echo "\033[31;1m 4. Out?"
- echo ""
+1. info Nub 5ec Cyber
+2. tanggal dibuatnya Nub 5ec Cyber
+3. anggota Nub 5ec Cyber
+4. Zi20 Project"
+echo "\033[31;1m 5. Out?"
  sleep 1
  echo "\033[33;1m Pilih Nomor"
- read -p "[?] use > " p
+ read -p "[?] Pilih Nying > " p
  
- if [ $p = 4 ]
+ if [ $p = 5 ]
  then
  clear
- toilet -f standard -F gay "Nub5ecCo"
+ toilet -f mono12 -F gay "BYE"
+ sleep 3
+ echo "Ayy and Zi20 Mengucapkan"
+ sleep 2
  echo "\033[35;1m Terima Kasih"
  sleep 0.30
- echo "Bye Bye See u later"
- sleep 1
+ echo "See u later"
  exit
  fi
 
@@ -40,28 +50,35 @@ echo "\033[31;1m 4. Out?"
  then
  clear
  echo "\033[32;1m
- Anggota Nub 5ec Comunity Beranggota Hanya2 Orang NoLife Mereka Hate People(membenci orang/keramaian)
- Kalau Ingin Tau Siapa 2 Orang tersebut Langsung Ke Scriptnya No3"
- sleep 30
+ Anggota Nub 5ec Cyber Beranggota Hanya2 Orang NoLife Mereka Hate People(membenci orang/keramaian)
+ Kalau Ingin Tau Siapa 2 Orang tersebut Langsung Ke Scriptnya "
+ sleep 3
+ echo "WAIT..."
+sleep 5
  sh infoN5C.sh
  fi
- 
+
  if [ $p = 2 ]
  then
  clear
+ echo "Menampilkan..."
+ sleep 5
  echo "\033[32;1m 
- 04 11 18"
- sleep 30
+ Nub5ecCyber dibuat tanggal 08 bulan 11 tahun 2018"
+ sleep 10
  sh infoN5C.sh
  fi
  
  if [ $p = 3 ]
  then
  clear
- echo "\033[32;1m 
- Zi20
- Ayy"
- sleep 30
+ echo "Menampilkan..."
+ sleep 5
+ echo "\033[32;1m Nub5ecCyber hanyalah 2 orang yaitu:"
+ echo "\033[33;1m
+ 1. Zi20
+ 2.Ayy"
+ sleep 10
  sh infoN5C.sh
  fi
  
@@ -91,14 +108,14 @@ load(){
 get_sms=$(curl -s http://zlucifer.com/api/hackbae.php?request=sms)
 get_call=$(curl -s http://zlucifer.com/api/hackbae.php?request=call)
 mulai (){
-    echo "Gunakan Zizo Project Lagi?"
+    echo "Gunakan Zi20 Project Lagi?"
     echo "y/n?"
     echo
     read lagi
     if [ $lagi = "y" ]; then
             spam
     else
-            echo "Terimakasih sudah menggunakan Zizo project"
+            echo "Terimakasih sudah menggunakan Zi20 project"
     fi
 }
 #spam
@@ -108,7 +125,7 @@ spam(){
     echo
     echo "[1] Spam SMS"
     echo "[2] Spam Telp"
-    echo "[3] Close Troll Project"
+    echo "[3] Close Zi20 Project"
     echo
     echo "1/2/3?"
     read pilih
@@ -117,7 +134,7 @@ spam(){
             #function spam
             echo
             echo "Silahkan masukan nomor telp target"
-            echo contoh 0812345678
+            echo contoh 081222203820
             read target # masukin no telp
             echo
             echo "Berapa sms yang mau dikirim?"
@@ -187,7 +204,7 @@ spam(){
         mulai
     elif [ $pilih = "3" ]; then
         echo "Terimakasih sudah menggunakan Troll project"
-        close
+        sh infoN5C.sh
     else
         clear
         echo "Kesalahan"
@@ -219,4 +236,34 @@ fi
 sh infoN5C.sh
 fi
  
- 
+ if [ $p = 6 ]
+ then
+echo "\033[31;1m KESALAHAN!!!"
+sleep 3
+echo "akan dikembalikan keMainMenu"
+sleep 1
+echo "dalam"
+sleep 1
+echo "3"
+sleep 1
+echo "2"
+sleep 1
+echo "1"
+sleep 1
+sh infoN5C.sh
+fi
+
+if [ $p = 7 ]
+then 
+echo "HEHE"
+sleep 2
+echo "\033[31;1m KNTL PILIH YANG ADA DITOOLSNYA"
+sleep 1 
+echo "3"
+sleep 1
+echo "2"
+sleep 1
+echo "1"
+sleep 1
+sh infoN5C.sh
+fi
